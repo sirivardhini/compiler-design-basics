@@ -48,4 +48,4 @@ This project provides a hands-on experience with file handling in C, demonstrati
 By combining writing, reading, and appending operations in a single application, this program offers a holistic view of how files are used in everyday software and helps build a solid foundation for further exploration into file I/O in C and other programming languages.
 OUTPUT EXAMPLE:
 ![WhatsApp Image 2025-06-13 at 12 19 07_ae1b5c20](https://github.com/user-attachments/assets/399809e7-8b98-46e2-a678-c6d1e5fdf164)
-![WhatsApp Image 2025-06-13 at 12 19 07_ae1b5c20](https://github.com/user-attachments/assets/399809e7-8b98-46e2-a678-c6d1e5fdf164)
+
