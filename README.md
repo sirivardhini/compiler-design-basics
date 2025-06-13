@@ -46,6 +46,8 @@ Understand different file modes in C: "r", "w", and "a". Learn how to open and c
 This project provides a hands-on experience with file handling in C, demonstrating how to manage text files using various modes. It emphasizes the importance of error handling and step-by-step validation, which are critical in real-world systems where file operations may fail due to missing permissions, incorrect paths, or corrupted files.
 
 By combining writing, reading, and appending operations in a single application, this program offers a holistic view of how files are used in everyday software and helps build a solid foundation for further exploration into file I/O in C and other programming languages.
-OUTPUT EXAMPLE:
+OUTPUTEXAMPLE:
+
+
 ![WhatsApp Image 2025-06-13 at 12 19 07_ae1b5c20](https://github.com/user-attachments/assets/399809e7-8b98-46e2-a678-c6d1e5fdf164)
 
